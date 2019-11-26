@@ -4,4 +4,4 @@
 env/
 venv/
 .theia
-.theia/
+theia/
